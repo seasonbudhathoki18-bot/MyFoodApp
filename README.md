@@ -109,13 +109,6 @@ Username: Sijan
 
 Password: 8195011
 
-📸 Screenshots
-Login Screen
-
-Dashboard Screen
-
-Details Screen
-
 📑 Verification Checklist
 
 Dependencies declared and project syncs on fresh clone
